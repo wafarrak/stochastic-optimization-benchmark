@@ -64,7 +64,7 @@ The benchmark consisted of:
 This resulted in:
 
 ```text
-600 total optimization trials
+600 total optimization trials.
 ```
 
 Each algorithm was evaluated using:
